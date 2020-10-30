@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820875273800",
+    "firebase_url": "https://coolgains.firebaseio.com",
+    "project_id": "coolgains",
+    "storage_bucket": "coolgains.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820875273800:android:3dde26d2d4f47f6febda7d",
+        "android_client_info": {
+          "package_name": "nigeriandailies.com.ng.coolgains"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820875273800-i3idoqllmv7peqerahvqhefshq0dt2k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nigeriandailies.com.ng.coolgains",
+            "certificate_hash": "8ae905f7688e2dd695f59f6a8ca1b5fa39961a7e"
+          }
+        },
+        {
+          "client_id": "820875273800-gfcbsebhjflb3o45l2ibbtdl0k9f4i6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaTgJ9Zlm5yz3msqcRmWiUN_0SasqfoVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820875273800-gfcbsebhjflb3o45l2ibbtdl0k9f4i6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
